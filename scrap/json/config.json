@@ -1,6 +1,6 @@
 [
     {
-        "candidato": "Renata Souza - PSOL",
+        "nome": "Renata Souza - PSOL",
         "Username": "renatasouzario",
         "Following": true,
         "Followers": true,
@@ -12,7 +12,7 @@
         "retweet_date": true
     },
     {
-        "candidato": "Eduardo Paes - DEM",
+        "nome": "Eduardo Paes - DEM",
         "Username":"eduardopaes_",
         "Following": true,
         "Followers": true,
@@ -24,7 +24,7 @@
         "retweet_date": true
     },
     {
-        "candidato": "Marcelo Crivela",
+        "nome": "Marcelo Crivela - PRB",
         "Username": "MCrivella",
         "Following": true,
         "Followers": true,
@@ -36,7 +36,7 @@
         "retweet_date": true
     },
     {
-        "candidato": "Benedita da Silva",
+        "nome": "Benedita da Silva - PT",
         "Username": "dasilvabenedita",
         "Following": true,
         "Followers": true,
@@ -48,7 +48,7 @@
         "retweet_date": true
     },
     {
-        "candidato": "Marta Rocha - PDT",
+        "nome": "Marta Rocha - PDT",
         "Username": "delmartharocha",
         "Following": true,
         "Followers": true,
