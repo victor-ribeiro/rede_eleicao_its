@@ -1,0 +1,62 @@
+[
+    {
+        "candidato": "Renata Souza - PSOL",
+        "Username": "renatasouzario",
+        "Following": true,
+        "Followers": true,
+        "Likes": true,
+        "Timestamp": true,
+        "Tweet": true,
+        "Mentions": true,
+        "Retweet": true,
+        "retweet_date": true
+    },
+    {
+        "candidato": "Eduardo Paes - DEM",
+        "Username":"eduardopaes_",
+        "Following": true,
+        "Followers": true,
+        "Likes": true,
+        "Timestamp": true,
+        "Tweet": true,
+        "Mentions": true,
+        "Retweet": true,
+        "retweet_date": true
+    },
+    {
+        "candidato": "Marcelo Crivela",
+        "Username": "MCrivela10",
+        "Following": true,
+        "Followers": true,
+        "Likes": true,
+        "Timestamp": true,
+        "Tweet": true,
+        "Mentions": true,
+        "Retweet": true,
+        "retweet_date": true
+    },
+    {
+        "candidato": "Benedita da Silva",
+        "Username": "dasilvabenedita",
+        "Following": true,
+        "Followers": true,
+        "Likes": true,
+        "Timestamp": true,
+        "Tweet": true,
+        "Mentions": true,
+        "Retweet": true,
+        "retweet_date": true
+    },
+    {
+        "candidato": "Marta Rocha - PDT",
+        "Username": "delmartharocha",
+        "Following": true,
+        "Followers": true,
+        "Likes": true,
+        "Timestamp": true,
+        "Tweet": true,
+        "Mentions": true,
+        "Retweet": true,
+        "retweet_date": true
+    }
+]

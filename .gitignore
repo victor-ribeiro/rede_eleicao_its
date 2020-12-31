@@ -130,3 +130,5 @@ dmypy.json
 
 # xls data
 Results_RJ_compilado.xlsx
+data
+src
